@@ -41,11 +41,14 @@ Tracky este un robot autonom ce:
 ## 🛠️ Diagrama electrică
 
 Diagrama completă este realizată în Cirkit Designer / Tinkercad și include toate conexiunile senzorilor, motoarelor, ESP32-CAM și controlerele.
-
+[Tracky (1).pdf](https://github.com/user-attachments/files/20431153/Tracky.1.pdf)
+![circuit_image](https://github.com/user-attachments/assets/2b444f90-ca13-410a-938b-fc5982bc18f9)
 ## 🖼️ Arhitectura software
 
 - **Mod Autonom:** Urmărire lumină și evitare obstacole.
 - **Mod Manual:** Comenzi IR sau PS2.
 - **Mod Mixt:** Comutare prin buton.
 - **Captură imagine:** Cod dedicat pentru ESP32-CAM pentru salvare `.pgm`.
+
+
 
