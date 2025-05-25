@@ -6,6 +6,15 @@
 
 ![image1](https://github.com/user-attachments/assets/d985302e-6464-45b4-9d1e-f0aeb73db4c6)
 
+🧑‍💻 Autor
+Nume: Popescu Andrei George Constantin
+
+Clasa: X-A
+
+Localitate: Petroșani, Hunedoara
+
+Proiect realizat integral individual
+
 ## 📌 Descriere generală
 
 Tracky este un robot autonom ce:
