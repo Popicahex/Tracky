@@ -2,6 +2,10 @@
 
 **Tracky** este un robot multifuncțional proiectat pentru transportul de obiecte mici și explorarea în medii diverse. Este capabil să funcționeze autonom sau manual, fiind ideal pentru aplicații educaționale, recreative sau prototipare tehnologică.
 
+![image](https://github.com/user-attachments/assets/206dab6c-8415-44bb-a08f-70aee80e0e43)
+
+![image1](https://github.com/user-attachments/assets/d985302e-6464-45b4-9d1e-f0aeb73db4c6)
+
 ## 📌 Descriere generală
 
 Tracky este un robot autonom ce:
@@ -56,4 +60,5 @@ Diagrama completă este realizată în Cirkit Designer / Tinkercad și include t
 ⚠️ Codul nu va funcționa fără instalarea bibliotecilor: IR_remote.h, keymap.h, Servo.h și PS2X_lib.h.
 
 ⚠️ Pentru ca acest cod să funcționeze, bibliotecile IR_remote.h, keymap.h, Servo.h și PS2X_lib.h trebuie să fie instalate și plasate în același folder cu fișierul sursă.
+
 
