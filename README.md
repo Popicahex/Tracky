@@ -6,9 +6,9 @@
 
 Tracky este un robot autonom ce:
 - Urmărește sursele de lumină pentru a maximiza colectarea energiei prin panou solar.
-- Evită obstacolele folosind senzori ultrasonici.
+- Evită obstacolele folosind senzorul ultrasonic.
 - Este controlabil prin telecomandă IR sau controller PS2.
-- Poate captura și salva imagini pe card SD prin ESP32-CAM.
+- Poate captura și salva imagini pe card SD prin două ESP32-CAM.
 - Dispune de un braț robotic funcțional cu 3 servo motoare.
 
 ## 🎯 Obiective
@@ -41,8 +41,11 @@ Tracky este un robot autonom ce:
 ## 🛠️ Diagrama electrică
 
 Diagrama completă este realizată în Cirkit Designer / Tinkercad și include toate conexiunile senzorilor, motoarelor, ESP32-CAM și controlerele.
-[Tracky (1).pdf](https://github.com/user-attachments/files/20431153/Tracky.1.pdf)
+
 ![circuit_image](https://github.com/user-attachments/assets/2b444f90-ca13-410a-938b-fc5982bc18f9)
+
+![Tracky](https://github.com/user-attachments/assets/a447c9d4-7c40-4f42-b3dd-8106f8ed4e5d)
+
 ## 🖼️ Arhitectura software
 
 - **Mod Autonom:** Urmărire lumină și evitare obstacole.
