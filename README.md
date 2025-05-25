@@ -8,6 +8,7 @@
 
 🧑‍💻 Autor
 Nume: Popescu Andrei George Constantin
+
 Colegiul Naţional de Informatică "Carmen Sylva" din Petroşani
 Clasa: X-A
 
