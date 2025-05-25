@@ -45,7 +45,7 @@ Tracky este un robot autonom ce:
 ## 🧩 Componente utilizate
 
 - **Microcontroler:** Arduino UNO R3
-- **Camere:** 2x ESP32-CAM cu OV2640
+- **Camere:** 2x ESP32-CAM ,camere de tip OV2640 & RHXY-M21-45
 - **Senzori:** HC-SR04 (ultrasonic), 2x LDR (luminozitate)
 - **Motoare:** 2x DC + 3x Servo LFD-01M
 - **Braț robotic:** 3 grade de libertate
