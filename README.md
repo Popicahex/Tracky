@@ -53,5 +53,7 @@ Diagrama completă este realizată în Cirkit Designer / Tinkercad și include t
 - **Mod Mixt:** Comutare prin buton.
 - **Captură imagine:** Cod dedicat pentru ESP32-CAM pentru salvare `.pgm`.
 
+⚠️ Codul nu va funcționa fără instalarea bibliotecilor: IR_remote.h, keymap.h, Servo.h și PS2X_lib.h.
 
+⚠️ Pentru ca acest cod să funcționeze, bibliotecile IR_remote.h, keymap.h, Servo.h și PS2X_lib.h trebuie să fie instalate și plasate în același folder cu fișierul sursă.
 
